@@ -1,0 +1,44 @@
+# Project: **Doraemon’s Gadget Inventory Manager** 🚀🎒
+
+## Storyline:  
+
+Doraemon ne ek nayi **Gadget Inventory Manager** banane ka socha hai, jo sirf Nobita ke liye gadgets manage karega! 🛠️  
+Lekin yeh kaam itna asaan nahi hai! Doraemon chahta hai ki tum ek **Object-Oriented Programming (OOP)** system banake iska solution do.  
+
+### Background:  
+
+1. **Gadget Class**:  
+   Har gadget ka ek **name**, **power level**, aur **use count** hota hai. Ye sab gadgets ek **class** ke andar defined rahenge.  
+   
+2. **Nobita ka Access**:  
+   Nobita sirf gadgets ke naam aur unki power level dekh sakta hai, par unka **use count** nahi badal sakta. (Yahaan pe tumhe **access modifiers** ka use karna hoga – **public** aur **private**).  
+
+3. **Doraemon ka Control**:  
+   Doraemon gadgets ke use count ko badha sakta hai, aur jab koi gadget overused ho jaye, to warning bhi show karega.  
+
+---
+
+## Task Description:  
+
+Tumhe ek program likhna hai jo OOP ke principles ko use kare:  
+
+### 1. **Create a Gadget Class:**  
+   - **Attributes**: Name, Power Level, Use Count  
+   - **Methods**:  
+     - Display gadget details (public method).  
+     - Update use count (private method – only Doraemon can use this).  
+     - Warning for overuse if Use Count > 10.  
+
+---
+
+## Submission Details:
+
+- **Deadline**: January 2nd, 2025, before 5:59 PM.  
+- **Submission Steps**:  
+  1. Push your code to GitHub with **clear comments** explaining each part of the program.  
+  2. Include a **sample run** showcasing:  
+     - Gadget details display.  
+     - Usage tracking.  
+     - Warning messages for overuse.    
+
+> *"Doraemon aur Nobita tumhare Gadget Inventory Manager ka intezaar kar rahe hain. Coding chalu karo aur unki life easy banao!"* 🤖✨
