@@ -1,5 +1,5 @@
 # Data Structures and Algorithms (DSA)
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHjj0QVmfJLo5BrdEKQZ5td36QsOqjgTQFg&s" alt="Alt Text" width="300" />
 
 This repository is dedicated to the **Data Structures and Algorithms (DSA)**. The course focuses on in-depth learning and application of **C++** for solving algorithmic problems and implementing various data structures.
 
